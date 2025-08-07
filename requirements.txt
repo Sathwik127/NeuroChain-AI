@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-google-genai
+langchain-google-vertexai
+langchain-ollama
+sentence-transformers
+faiss-cpu
+google-cloud-aiplatform
+pydantic
+python-docx
+pptx
+requests
